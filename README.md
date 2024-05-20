@@ -26,7 +26,3 @@
 </div>
 
 
-
-
-![Snake animation](https://github.com/JoseEduardoPagnossim/JoseEduardoPagnossim/blob/output/github-contribution-grid-snake.svg)
-
